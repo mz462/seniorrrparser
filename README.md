@@ -1,5 +1,7 @@
 # Shiny App for Rent Roll Processing in Senior Housing
 
+**"Commercial real estate is inefficient — let's have fun changing it together!"**
+
 Welcome to our Shiny App, a focused tool for simplifying rent roll management in the senior housing sector. Developed with R Shiny, this application is designed to be easy-to-use, helping users efficiently handle rent roll data.
 
 ![Shiny App Interface](link-to-screenshot.jpg) *Simplifying rent roll management with our user-friendly app*
