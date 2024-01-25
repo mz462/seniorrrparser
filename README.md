@@ -21,7 +21,7 @@ Understanding the intricacies of rent roll management in senior housing, we've t
 For non-technical users, here’s how you can download and run the app on your laptop:
 
 1. **Download the Repository**: 
-   - Visit the project's GitHub page: [https://your-repository-link](https://your-repository-link).
+   - Visit the project's GitHub page: [seniorrrparser](https://github.com/mz462/seniorrrparser).
    - Click on the 'Code' button and then select 'Download ZIP'.
    - Extract the ZIP file to a folder on your computer.
 
@@ -55,8 +55,7 @@ Interested in seeing this app grow? We welcome suggestions and feedback to broad
 
 Questions or feedback? Contact us - we're here to help:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- **Email**: [recipe-mopey-05@icloud.com](mailto:recipe-mopey-05@icloud.com)
 
 ## :memo: License
 
@@ -65,4 +64,3 @@ This project is open-source and available under the MIT License. See the `LICENS
 ## :clap: Acknowledgements
 
 - [R Shiny](https://shiny.rstudio.com/)
-- [Our Community of Contributors and Supporters]
